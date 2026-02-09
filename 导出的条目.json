@@ -1,0 +1,72 @@
+[
+	{
+		"id": "gaoDesignAnalysisAxial2023",
+		"type": "article-journal",
+		"abstract": "To enhance the separation efficiency of downhole oil–water hydrocyclones in co-produced wells, an axial center-piercing hydrocyclone structure is proposed. A mathematical relationship model between the structural parameters and separation efficiency of the axial center-piercing hydrocyclone is constructed based on the response surface methodology. The numerical simulation method is employed to analyze both the unoptimized and optimized hydrocyclone structures, and their separation performances are simulated under identical operational conditions. The results indicate that the optimal structural parameter values are as follows: main diameter D = 70.4 mm, large cone angle α1 = 32.4°, small cone angle α2 = 3.9°, bottom flow tube length L3 = 311.7 mm, and inverted cone length L4 = 166.0 mm. The optimal operation parameters of the optimized structure are also obtained. Under the same operating parameter conditions, the separation efficiency of the optimized structure is consistently higher than that of the unoptimized structure. The highest efficiency achieved by the optimized structure is 98.6%, which is a 2% improvement over the unoptimized state. Finally, experiments are conducted with the optimized hydrocyclone separator structure under different split ratios. This study significantly contributes to the field of injection and production in a single well, particularly in promoting the application of hydrocyclones.",
+		"citation-key": "gaoDesignAnalysisAxial2023",
+		"container-title": "Energies",
+		"DOI": "10.3390/en16196800",
+		"ISSN": "1996-1073",
+		"issue": "19",
+		"language": "en",
+		"license": "http://creativecommons.org/licenses/by/3.0/",
+		"note": "number: 19",
+		"page": "6800",
+		"publisher": "Multidisciplinary Digital Publishing Institute",
+		"source": "www.mdpi.com",
+		"title": "Design and Analysis of an Axial Center-Piercing Hydrocyclone",
+		"URL": "https://www.mdpi.com/1996-1073/16/19/6800",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Gao",
+				"given": "Yang"
+			},
+			{
+				"family": "Liu",
+				"given": "He"
+			},
+			{
+				"family": "Yu",
+				"given": "Jiaqing"
+			},
+			{
+				"family": "Zhao",
+				"given": "Xiaojie"
+			},
+			{
+				"family": "Cao",
+				"given": "Gang"
+			},
+			{
+				"family": "Yang",
+				"given": "Qinghai"
+			},
+			{
+				"family": "Jia",
+				"given": "Deli"
+			},
+			{
+				"family": "Zheng",
+				"given": "Lichen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					1
+				]
+			]
+		}
+	}
+]

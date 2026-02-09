@@ -4,9 +4,9 @@
     initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded"
     default-locale="zh-CN">
     <info>
-        <title>GB/T 7714—2015（顺序编码，双语，访问日期）</title>
-        <id>https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，访问日期）</id>
-        <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，访问日期）" rel="self" />
+        <title>GB/T 7714—2015（顺序编码，双语）</title>
+        <id>https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）</id>
+        <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="self" />
         <link href="http://www.zotero.org/styles/china-national-standard-gb-t-7714-2015-numeric"
             rel="template" />
         <link
@@ -23,7 +23,7 @@
         <category citation-format="numeric" />
         <category field="generic-base" />
         <summary>按照语言显示“等”或“et al.”</summary>
-        <updated>2026-02-09T17:10:39+08:00</updated>
+        <updated>2025-01-08T17:10:39+08:00</updated>
         <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under
             a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     </info>
@@ -235,7 +235,7 @@
                 <text variable="page" prefix="(" suffix=")" />
             </if>
             <else>
-                <!-- 期刊、杂志的出处项："刊名, 年, 卷(期): 页码[引用日期]" -->
+                <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
                 <group delimiter=": ">
                     <group>
                         <group delimiter=", ">
@@ -245,20 +245,18 @@
                         </group>
                         <text variable="issue" prefix="(" suffix=")" />
                     </group>
-                    <group>
-                        <choose>
-                            <if variable="page">
-                                <text variable="page" />
-                            </if>
-                            <else>
-                                <text variable="number" />
-                            </else>
-                        </choose>
-                        <text macro="accessed-date" />
-                    </group>
+                    <choose>
+                        <if variable="page">
+                            <text variable="page" />
+                        </if>
+                        <else>
+                            <text variable="number" />
+                        </else>
+                    </choose>
                 </group>
             </else>
         </choose>
+        <text macro="accessed-date" />
     </macro>
     <!-- 版本项 -->
     <macro name="edition">
