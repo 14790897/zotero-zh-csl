@@ -1,0 +1,57 @@
+[
+	{
+		"id": "fanExperimentalStudyMiniHydrocyclones2024",
+		"type": "article",
+		"abstract": "As one of the classic non-thermal separation methods, the mini-hydrocyclone separate the flow field with its internal complex strong vortex. How to improve the separation efficiency is a problem that has been studied over the years. In our previous studies, the separation and grade efficiency of four inlet section angles were studied. The best inlet section angle to improve the efficiency of separation was clarified by using Particle Image Velocimetry（PIV）. This study introduced top-plate angles in the mini-hydrocyclones to conduct further research. Particle Image Velocimetry (PIV) was used to test the flow patterns of a set of 35 mm mini-hydrocyclones with different top-plate angles (0°,30°,45°,60°). The axial velocity contours and radial velocity contours were obtained, the streamline distributions were obtained by calculation. The specific data of the separation process under different top-plate angles were obtained by Particle Image Velocimetry (PIV) methodology, compared and analyzed with different inlet section angles. It was found that the separation efficiency of the top-plate angle is better than that of the inlet section angle at the same angle, the streamline is more regular. It showed that the separation process is not easily disturbed by vortex flow when the top-plate plate was introduced. The results showed that the optimal inlet top-plate angle in this study is 30°. 微型水力旋流器作为经典的非热分离方法之一，以其内部复杂的强涡流流场进行分离。如何提高分离效率是多年来人们研究的问题。在我们之前的研究中，研究了四个入口截面角度的分离和分级效率。利用粒子图像测速技术（PIV）明确了提高分离效率的最佳入口截面角度。本研究引入了微型水力旋流器的顶板角度以进行进一步的研究。采用粒子图像测速仪（PIV）测试了一组具有不同顶板角度（0°、30°、45°、60°）的35 mm微型水力旋流器的流型。得到了轴向速度云图和径向速度云图，并通过计算得到了流线分布。采用粒子图像测速（PIV）方法获得不同顶板角度下分离过程的具体数据，并与不同入口截面角度进行对比分析。结果发现，相同角度下，顶板角度的分离效率优于入口截面角度，流线更规则。结果表明，引入顶板后，分离过程不易受到涡流干扰。结果表明，本研究中最佳入口顶板角度为30°。",
+		"citation-key": "fanExperimentalStudyMiniHydrocyclones2024",
+		"DOI": "10.2139/ssrn.4835053",
+		"genre": "SSRN Scholarly Paper",
+		"language": "en",
+		"number": "4835053",
+		"publisher": "Social Science Research Network",
+		"publisher-place": "Rochester, NY",
+		"source": "papers.ssrn.com",
+		"title": "Experimental Study of Mini-Hydrocyclones with Different Top-Plate Angles Using Particle Imaging Velocimetry",
+		"URL": "https://papers.ssrn.com/abstract=4835053",
+		"author": [
+			{
+				"family": "Fan",
+				"given": "Yi"
+			},
+			{
+				"family": "Ji",
+				"given": "Jie"
+			},
+			{
+				"family": "Huang",
+				"given": "Beijia"
+			},
+			{
+				"family": "Liu",
+				"given": "Wencheng"
+			},
+			{
+				"family": "Huang",
+				"given": "Yuandong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					12,
+					24
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					20
+				]
+			]
+		}
+	}
+]

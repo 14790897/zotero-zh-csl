@@ -1,0 +1,54 @@
+[
+	{
+		"id": "huangHighspeedParticleRotation2017",
+		"type": "article-journal",
+		"abstract": "Hydrocyclone not only achieves centrifugal separation of solids and liquids but also puriﬁes oil-coated particles through rotational shear ﬂow, resulting in high-speed particle rotation. This study develops a method to detect microsphere rotation assisted by microﬂuidic and high-speed imaging techniques. The developed method is applied to investigate the intensiﬁcation mechanism of particle rotation on de-oiling oil-coated particles by using hydrocyclone. Results show that the microspheres exhibit high rotation speed of more than 1000 rad/s when translating near the wall. The conical structure and inlet ﬂow rate of hydrocyclone signiﬁcantly affect the magnitude and distribution of rotation speed in the equipment. An experiment on de-oiling real oil-coated spent catalysts veriﬁes the de-oiling intensiﬁcation of the hydrocyclone, with the de-oiling efﬁciency being promoted by a minimum of 12.87% based on stirred hydrothermal tank. The de-oiling intensiﬁcation mechanism is attributed to the strong resultant centrifugal force, whose direction periodically changes because of particle rotation and revolution. Overall, this study provides guidance for the design of washing hydrocyclones for oil-coated particles.",
+		"call-number": "1",
+		"citation-key": "huangHighspeedParticleRotation2017",
+		"container-title": "Separation and Purification Technology",
+		"DOI": "10.1016/j.seppur.2016.12.001",
+		"ISSN": "13835866",
+		"journalAbbreviation": "Separation and Purification Technology",
+		"language": "en",
+		"page": "263-271",
+		"source": "8.1",
+		"title": "High-speed particle rotation for coating oil removal by hydrocyclone",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S1383586616321207",
+		"volume": "177",
+		"author": [
+			{
+				"family": "Huang",
+				"given": "Yuan"
+			},
+			{
+				"family": "Li",
+				"given": "Jianping"
+			},
+			{
+				"family": "Zhang",
+				"given": "Yanhong"
+			},
+			{
+				"family": "Wang",
+				"given": "Hualin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					10,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4
+				]
+			]
+		}
+	}
+]
