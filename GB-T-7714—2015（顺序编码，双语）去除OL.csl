@@ -242,7 +242,6 @@
                     <text macro="issued-date" />
                 </group>
                 <text variable="page" prefix="(" suffix=")" />
-                <text macro="accessed-date" />
             </if>
             <else>
                 <!-- 期刊、杂志的出处项：“刊名, 年, 卷(期): 页码[引用日期]” -->
@@ -264,9 +263,9 @@
                         </else>
                     </choose>
                 </group>
-                <text macro="accessed-date" />
             </else>
         </choose>
+        <text macro="accessed-date" />
     </macro>
     <!-- 版本项 -->
     <macro name="edition">
