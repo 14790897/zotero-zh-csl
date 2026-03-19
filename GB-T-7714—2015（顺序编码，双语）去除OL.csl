@@ -23,7 +23,7 @@
         <category citation-format="numeric" />
         <category field="generic-base" />
         <summary>按照语言显示“等”或“et al.”</summary>
-        <updated>2025-01-08T17:10:39+08:00</updated>
+        <updated>2026-03-19T17:10:39+08:00</updated>
         <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under
             a Creative Commons Attribution-ShareAlike 3.0 License</rights>
     </info>
@@ -121,9 +121,9 @@
     <macro name="type-id">
         <choose>
             <!-- arXiv 预印本：强制 EB（放最前面，优先级最高） -->
-            <!-- <if type="article" match="any">
+            <if type="article" match="any">
                 <text value="EB" />
-            </if> -->
+            </if>
             <if
                 type="article bill collection hearing legal_case legislation personal_communication regulation treaty"
                 match="any">
